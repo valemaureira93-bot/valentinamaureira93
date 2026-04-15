@@ -27,12 +27,12 @@ Mi objetivo es desarrollarme en el área de análisis de datos, participando en 
 
 Aquí encontrarás proyectos relacionados con:
 
-- 📊 Análisis de datos
-- 📈 Visualización de información
-- 🗄️ Bases de datos (SQL)
-- 📉 Dashboards en Power BI
+-  Análisis de datos
+-  Visualización de información
+-  Bases de datos (SQL)
+-  Dashboards en Power BI
 
-## 💡 Experiencia
+## Experiencia
 
 He desarrollado distintos proyectos académicos donde he aplicado:
 
