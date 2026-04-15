@@ -18,5 +18,5 @@ Aquí encontrarás proyectos relacionados con:
 
 ## Contacto
 - Email: (vale.maureira93@gmail.com)
-- LinkedIn: ((https://www.linkedin.com/in/valentina-ignacia-maureira-o%C3%B1ate-444089243/))
+- LinkedIn: ((www.linkedin.com/in/valentina-ignacia-maureira-oñate-444089243))
 - GitHub: este perfil
