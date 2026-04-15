@@ -48,9 +48,3 @@ Puedes contactarme a través de:
 - Correo electrónico: vale.maureira93@gmail.com
 - LinkedIn: (www.linkedin.com/in/valentina-ignacia-maureira-oñate-444089243)
 -  GitHub: este perfil
-
-
-## Contacto
-- Email: (vale.maureira93@gmail.com)
-- LinkedIn: ((www.linkedin.com/in/valentina-ignacia-maureira-oñate-444089243))
-- GitHub: este perfil
